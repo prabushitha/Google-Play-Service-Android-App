@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Geuss_and_Win</string>
+    <string name="app_id">YOUR APP ID</string>
+    <string name="number_guesses_leaderboard">YOUR LEADERBOARD ID</string>
+</resources>
